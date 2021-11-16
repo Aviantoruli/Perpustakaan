@@ -1,0 +1,20 @@
+[
+    {
+        "name":"avi",
+        "email":"avi@mail.com",
+        "password":"12345",
+        "denda":0
+    },
+    {
+        "name":"budi",
+        "email":"budi@mail.com",
+        "password":"12345",
+        "denda":0
+    },
+    {
+        "name":"jojo",
+        "email":"jojo@mail.com",
+        "password":"12345",
+        "denda":0
+    }
+]
